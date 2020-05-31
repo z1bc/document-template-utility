@@ -1,4 +1,4 @@
-##Document Template Utility
+# Document Template Utility
 
 The goal of the document Template Utility is to take a MS-Word or PDF as a template and fill in data from a JSON document.
 
