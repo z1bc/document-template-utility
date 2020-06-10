@@ -1,6 +1,6 @@
 # REACT Developer Recruitment
 
-We are hiring REACT developers. To apply, please develop a basic version of the Document Template Utility. Your code does not have to be fully functional. Any Pull Requests will be considered. Please read the README document in details. For questions, please submit an issue in the repo.
+We are hiring REACT developers. To apply, please develop a basic version of the Document Template Utility. Your code does not have to be fully functional. Any Pull Requests will be considered. Please read the README document in detail. For questions, please submit as issues in the repo.
 
 # Document Template Utility
 
