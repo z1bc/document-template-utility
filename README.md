@@ -1,3 +1,7 @@
+# REACT Developer Recruitment
+
+We are hiring REACT developers. To apply, please develop a basic version of the Document Template Utility. Your code does not have to be fully functional. Any Pull Requests will be considered. Please read the README document in details. For questions, please submit an issue in the repo.
+
 # Document Template Utility
 
 The goal of the document Template Utility is to take a MS-Word or PDF as a template and fill in data from a JSON document, and generate a new PDF document.
