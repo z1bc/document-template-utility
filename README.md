@@ -2,6 +2,14 @@
 
 We are hiring REACT developers. To apply, please develop a basic version of the Document Template Utility. Please read the README document in detail. For questions, please submit as issues in the repo.
 
+# Milestone 1
+
+A basic REACT app. When the app renders, it should read the HelpingHandContactTemplate.pdf file.
+It should then replace {{doc.firstname}} with "Joe". At this point, hard coding is fine.
+The app should generate a new PDF and  trigger a download to the user's computer.
+
+The goal of milestone 1 is to make sure the contractor has basic understanding of how to manipulate PDF files.
+
 # Document Template Utility
 
 The goal of the document Template Utility is to take a MS-Word or PDF as a template and fill in data from a JSON document, and generate a new PDF document.
